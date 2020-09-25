@@ -1,0 +1,3 @@
+﻿  delta.c
+c:\test\lib\libdelta\srcdelta\delta.c(12): warning C4716: 'delta_effect_process': must return a value
+  LibDelta.vcxproj -> C:\test\build\tmp\lib\LibDelta\Debug\LibDelta.lib

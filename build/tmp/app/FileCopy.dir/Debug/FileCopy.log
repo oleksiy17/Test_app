@@ -1,0 +1,6 @@
+﻿  task1.c
+c:\test\src\task1.c(363): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\test\src\task1.c(430): warning C4018: '<': signed/unsigned mismatch
+c:\test\src\task1.c(361): warning C4101: 'j': unreferenced local variable
+c:\test\src\task1.c(466): warning C4101: 'buffer': unreferenced local variable
+  FileCopy.vcxproj -> C:\test\build\tmp\app\Debug\FileCopy.exe

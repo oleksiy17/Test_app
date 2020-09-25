@@ -1,0 +1,12 @@
+﻿  Checking Build System
+  CMake does not need to re-run because C:/test/build/tmp/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/test/build/tmp/lib/LibGenerator/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/test/build/tmp/lib/LibGain/CMakeFiles/generate.stamp is up-to-date.
+  CMake is re-running because C:/test/build/tmp/app/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/test/build/app/CMakeLists.txt'
+    is newer than 'C:/test/build/tmp/app/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.17763.0 to target Windows 10.0.18363.
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/test/build/tmp

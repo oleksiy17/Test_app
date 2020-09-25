@@ -1,0 +1,8 @@
+C:/test/build/tmp/CMakeFiles/ALL_BUILD.dir
+C:/test/build/tmp/CMakeFiles/ZERO_CHECK.dir
+C:/test/build/tmp/lib/LibGenerator/CMakeFiles/LibGenerator.dir
+C:/test/build/tmp/lib/LibGenerator/CMakeFiles/ALL_BUILD.dir
+C:/test/build/tmp/lib/LibGain/CMakeFiles/LibGain.dir
+C:/test/build/tmp/lib/LibGain/CMakeFiles/ALL_BUILD.dir
+C:/test/build/tmp/app/CMakeFiles/FileCopy.dir
+C:/test/build/tmp/app/CMakeFiles/ALL_BUILD.dir
